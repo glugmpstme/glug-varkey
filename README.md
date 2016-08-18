@@ -59,12 +59,14 @@
 4. GLUG members will be allowed access to all the online resources available
 5. Public access will be restrained
 
+
 ## Blog posts
 
 ### Objectives
 
 1. Glugizens can write blogs on various topics and these will be a part of the website.
 2. Access available to both sets of users
+
 
 ## How-To Guide
 
@@ -73,12 +75,14 @@
 1. This will act as the guidelines for most How-Tos revolving around Open Source/ GNU/linux
 2. Access will be made available to both sets of users
 
+
 ## Code snippets
 
 ### Objectives
 
 1. Tiny code snippets (in any preferred language) as a part of the website
 2. Access available exclusively to Glugizens
+
 
 ## Book library
 
@@ -87,6 +91,7 @@
 1. Online resource basket
 2. Collaboration of all ebooks available with any Glugizen
 3. Access available exclusively to Glugizens
+
 
 ## Module groups
 
