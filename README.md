@@ -93,7 +93,7 @@
 3. Access available exclusively to Glugizens
 
 
-## Module groups
+## Grouping the Modules
 
 ### Objectives
 
